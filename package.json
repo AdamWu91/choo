@@ -1,0 +1,17 @@
+{
+  "name": "choo",
+  "version": "1.0.0",
+  "description": "Choo biacz",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "budo": "^9.2.1",
+    "babelify": "^7.3.0"
+  },
+  "dependencies": {
+    "choo": "^3.3.0"
+  }
+}
